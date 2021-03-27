@@ -17,50 +17,74 @@ Platform assembly: C:\Users\HP\Desktop\Kuliah\Semester-6\PBD\Unity\if3210-2021-u
 Loading C:\Users\HP\Desktop\Kuliah\Semester-6\PBD\Unity\if3210-2021-unity-k2-3\Tubes2PBD\Tanks_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\HP\Desktop\Kuliah\Semester-6\PBD\Unity\if3210-2021-unity-k2-3\Tubes2PBD\Tanks_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\HP\Desktop\Kuliah\Semester-6\PBD\Unity\if3210-2021-unity-k2-3\Tubes2PBD\Tanks_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.498 seconds
+- Completed reload, in  0.049 seconds
 Platform assembly: C:\Users\HP\Desktop\Kuliah\Semester-6\PBD\Unity\if3210-2021-unity-k2-3\Tubes2PBD\Tanks_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\HP\Desktop\Kuliah\Semester-6\PBD\Unity\if3210-2021-unity-k2-3\Tubes2PBD\Tanks_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.989300 ms
+UnloadTime: 3.164000 ms
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 42c8 -> priority: 1 
-  Thread -> id: 2a38 -> priority: 1 
-  Thread -> id: 3cbc -> priority: 1 
-  Thread -> id: 11c4 -> priority: 1 
+  Thread -> id: 3f28 -> priority: 1 
+  Thread -> id: 4108 -> priority: 1 
+  Thread -> id: 56c -> priority: 1 
+  Thread -> id: 3558 -> priority: 1 
+satabond
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+donbasta
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 6.704400 ms
+UnloadTime: 4.314300 ms
 
 Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 337.
-Total: 0.754700 ms (FindLiveObjects: 0.086000 ms CreateObjectMapping: 0.039300 ms MarkObjects: 0.576200 ms  DeleteObjects: 0.050500 ms)
+Total: 0.309600 ms (FindLiveObjects: 0.035400 ms CreateObjectMapping: 0.019700 ms MarkObjects: 0.235800 ms  DeleteObjects: 0.017800 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.748200 ms
+UnloadTime: 0.653100 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 415.
-Total: 0.611600 ms (FindLiveObjects: 0.066400 ms CreateObjectMapping: 0.021900 ms MarkObjects: 0.504200 ms  DeleteObjects: 0.017400 ms)
+Total: 0.518000 ms (FindLiveObjects: 0.025600 ms CreateObjectMapping: 0.031500 ms MarkObjects: 0.445500 ms  DeleteObjects: 0.014200 ms)
 
-fd
+p1
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-fdd
+p2
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-3
+eprtama
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-0.03
+kedua
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.5
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.980400 ms
+UnloadTime: 1.284900 ms
 
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1252.
-Total: 0.954500 ms (FindLiveObjects: 0.140600 ms CreateObjectMapping: 0.061800 ms MarkObjects: 0.708900 ms  DeleteObjects: 0.041400 ms)
+Total: 1.026600 ms (FindLiveObjects: 0.151800 ms CreateObjectMapping: 0.080600 ms MarkObjects: 0.746400 ms  DeleteObjects: 0.046300 ms)
 
